@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/Gopikasubburaj/busdev/static/js/main.ad4e9c24.js",
+    "main.js": "/Gopikasubburaj/busdev/static/js/main.aa28bc76.js",
     "static/media/5.jpg": "/Gopikasubburaj/busdev/static/media/5.d20d4f40fed8c47b5575.jpg",
     "static/media/Image.jpg": "/Gopikasubburaj/busdev/static/media/Image.106b2a8e338c3262b13b.jpg",
     "static/media/1.jpg": "/Gopikasubburaj/busdev/static/media/1.d4345a356cf38a87d22c.jpg",
@@ -8,9 +8,9 @@
     "static/media/2.jpg": "/Gopikasubburaj/busdev/static/media/2.8ff4a90fce7d78c19a33.jpg",
     "static/media/6.jpg": "/Gopikasubburaj/busdev/static/media/6.b5260791ea59c5e03acb.jpg",
     "index.html": "/Gopikasubburaj/busdev/index.html",
-    "main.ad4e9c24.js.map": "/Gopikasubburaj/busdev/static/js/main.ad4e9c24.js.map"
+    "main.aa28bc76.js.map": "/Gopikasubburaj/busdev/static/js/main.aa28bc76.js.map"
   },
   "entrypoints": [
-    "static/js/main.ad4e9c24.js"
+    "static/js/main.aa28bc76.js"
   ]
 }
